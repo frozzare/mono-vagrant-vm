@@ -13,8 +13,3 @@ gem install --no-rdoc --no-ri albacore
 
 cd /vagrant
 echo cd \/vagrant > /home/vagrant/.bashrc
-rm -rf /etc/motd
-
-echo Milo on Mono >> /etc/motd
-echo ------------- >> /etc/motd
-echo >> /etc/motd
